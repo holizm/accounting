@@ -1,9 +1,9 @@
 import {
+    Boolean,
     DialogForm,
     Select,
     Text,
     Title,
-    YesNo,
 } from 'form'
 
 const inputs = <>
@@ -25,7 +25,7 @@ const inputs = <>
         property='accountType'
         required
     />
-    <YesNo
+    <Boolean
         placeholder='accountingActive'
         property='active'
     />

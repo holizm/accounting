@@ -1,8 +1,8 @@
 import {
+    Boolean,
     DateTime,
     DialogForm,
     Title,
-    YesNo,
 } from 'form'
 
 const inputs = <>
@@ -17,7 +17,7 @@ const inputs = <>
         property='endDate'
         required
     />
-    <YesNo
+    <Boolean
         placeholder='accountingClosed'
         property='closed'
     />
