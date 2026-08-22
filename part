@@ -1,0 +1,36 @@
+accountType options
+    asset
+    liability
+    equity
+    revenue
+    expense
+journalEntryStatus options
+    draft
+    posted
+    reversed
+account
+    title
+    code
+    accountType
+    parent optional
+    active yesNo optional
+    unique code
+fiscalPeriod
+    title
+    startDate
+    endDate
+    closed yesNo optional
+    unique startDate endDate
+journalEntry
+    number
+    date
+    fiscalPeriod
+    journalEntryStatus
+    description optional
+    unique number
+journalLine
+    journalEntry
+    account
+    debit realNumber
+    credit realNumber
+    description optional

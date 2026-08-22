@@ -1,0 +1,18 @@
+{
+    "accountingAccount": "حساب",
+    "accountingAccountType": "نوع حساب",
+    "accountingAccounting": "حسابداری",
+    "accountingAccounts": "حساب‌ها",
+    "accountingActive": "فعال",
+    "accountingClosed": "بسته‌شده",
+    "accountingCode": "کد",
+    "accountingDate": "تاریخ",
+    "accountingDescription": "توضیحات",
+    "accountingEndDate": "تاریخ پایان",
+    "accountingFiscalPeriod": "دوره مالی",
+    "accountingFiscalPeriods": "دوره‌های مالی",
+    "accountingJournalEntries": "اسناد حسابداری",
+    "accountingNumber": "شماره",
+    "accountingStartDate": "تاریخ شروع",
+    "accountingStatus": "وضعیت"
+}
