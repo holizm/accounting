@@ -1,0 +1,4 @@
+[
+    { $match: { journalEntry } },
+    { $count: 'count' },
+]
