@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'accountBalance',
+        path: '/accounting',
         title: 'accountingAccounting',
     },
 ]
