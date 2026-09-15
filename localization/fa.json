@@ -1,0 +1,27 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "account": "حساب",
+        "accountType": "نوع حساب",
+        "accounting": "حسابداری",
+        "accounts": "حساب‌ها",
+        "active": "فعال",
+        "closed": "بسته‌شده",
+        "code": "کد",
+        "date": "تاریخ",
+        "description": "توضیحات",
+        "endDate": "تاریخ پایان",
+        "fiscalPeriod": "دوره مالی",
+        "fiscalPeriods": "دوره‌های مالی",
+        "journalEntries": "اسناد حسابداری",
+        "number": "شماره",
+        "startDate": "تاریخ شروع",
+        "status": "وضعیت"
+    },
+    "site": {
+        "account": "حساب",
+        "accountType": "نوع حساب",
+        "code": "کد"
+    }
+}

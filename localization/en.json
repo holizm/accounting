@@ -1,0 +1,27 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "account": "Account",
+        "accountType": "Account type",
+        "accounting": "Accounting",
+        "accounts": "Accounts",
+        "active": "Active",
+        "closed": "Closed",
+        "code": "Code",
+        "date": "Date",
+        "description": "Description",
+        "endDate": "End date",
+        "fiscalPeriod": "Fiscal period",
+        "fiscalPeriods": "Fiscal periods",
+        "journalEntries": "Journal entries",
+        "number": "Number",
+        "startDate": "Start date",
+        "status": "Status"
+    },
+    "site": {
+        "account": "Account",
+        "accountType": "Account type",
+        "code": "Code"
+    }
+}
