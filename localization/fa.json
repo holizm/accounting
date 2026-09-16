@@ -1,14 +1,12 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "account": "حساب",
         "accountType": "نوع حساب",
+        "code": "کد",
         "accounting": "حسابداری",
         "accounts": "حساب‌ها",
         "active": "فعال",
         "closed": "بسته‌شده",
-        "code": "کد",
         "date": "تاریخ",
         "description": "توضیحات",
         "endDate": "تاریخ پایان",
@@ -18,10 +16,5 @@
         "number": "شماره",
         "startDate": "تاریخ شروع",
         "status": "وضعیت"
-    },
-    "site": {
-        "account": "حساب",
-        "accountType": "نوع حساب",
-        "code": "کد"
     }
 }
