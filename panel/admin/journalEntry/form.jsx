@@ -23,7 +23,7 @@ const inputs = <>
             'posted',
             'reversed',
         ]}
-        placeholder='accountingStatus'
+        placeholder='stateMachinesState'
         property='journalEntryStatus'
         required
     />

@@ -13,7 +13,7 @@ const filters = <Text
 const headers = <>
     <th start>accountingNumber</th>
     <th>accountingDate</th>
-    <th>accountingStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
