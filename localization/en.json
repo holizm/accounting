@@ -2,19 +2,11 @@
     "common": {
         "account": "Account",
         "accountType": "Account type",
-        "code": "Code",
         "accounting": "Accounting",
         "accounts": "Accounts",
-        "active": "Active",
         "closed": "Closed",
-        "date": "Date",
-        "description": "Description",
-        "endDate": "End date",
         "fiscalPeriod": "Fiscal period",
         "fiscalPeriods": "Fiscal periods",
-        "journalEntries": "Journal entries",
-        "number": "Number",
-        "startDate": "Start date",
-        "status": "Status"
+        "journalEntries": "Journal entries"
     }
 }

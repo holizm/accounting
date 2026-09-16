@@ -2,19 +2,11 @@
     "common": {
         "account": "حساب",
         "accountType": "نوع حساب",
-        "code": "کد",
         "accounting": "حسابداری",
         "accounts": "حساب‌ها",
-        "active": "فعال",
         "closed": "بسته‌شده",
-        "date": "تاریخ",
-        "description": "توضیحات",
-        "endDate": "تاریخ پایان",
         "fiscalPeriod": "دوره مالی",
         "fiscalPeriods": "دوره‌های مالی",
-        "journalEntries": "اسناد حسابداری",
-        "number": "شماره",
-        "startDate": "تاریخ شروع",
-        "status": "وضعیت"
+        "journalEntries": "اسناد حسابداری"
     }
 }
