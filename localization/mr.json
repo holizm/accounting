@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "खाते",
+        "accountType": "खात्याचा प्रकार",
+        "accounting": "लेखांकन",
+        "accounts": "खाती",
+        "closed": "बंद",
+        "fiscalPeriod": "आर्थिक कालावधी",
+        "fiscalPeriods": "आर्थिक कालावधी",
+        "journalEntries": "जर्नल नोंदी"
+    }
+}

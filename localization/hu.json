@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Számla",
+        "accountType": "Számlatípus",
+        "accounting": "Könyvelés",
+        "accounts": "Számlák",
+        "closed": "Lezárt",
+        "fiscalPeriod": "Pénzügyi időszak",
+        "fiscalPeriods": "Pénzügyi időszakok",
+        "journalEntries": "Naplóbejegyzések"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Сметка",
+        "accountType": "Тип сметка",
+        "accounting": "Счетоводство",
+        "accounts": "Сметки",
+        "closed": "Приключен",
+        "fiscalPeriod": "Финансов период",
+        "fiscalPeriods": "Финансови периоди",
+        "journalEntries": "Счетоводни записи"
+    }
+}

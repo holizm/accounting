@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Konto",
+        "accountType": "Typ konta",
+        "accounting": "Księgowość",
+        "accounts": "Konta",
+        "closed": "Zamknięty",
+        "fiscalPeriod": "Okres obrachunkowy",
+        "fiscalPeriods": "Okresy obrachunkowe",
+        "journalEntries": "Zapisy księgowe"
+    }
+}

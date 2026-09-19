@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "ਖਾਤਾ",
+        "accountType": "ਖਾਤੇ ਦੀ ਕਿਸਮ",
+        "accounting": "ਲੇਖਾਕਾਰੀ",
+        "accounts": "ਖਾਤੇ",
+        "closed": "ਬੰਦ",
+        "fiscalPeriod": "ਵਿੱਤੀ ਮਿਆਦ",
+        "fiscalPeriods": "ਵਿੱਤੀ ਮਿਆਦਾਂ",
+        "journalEntries": "ਜਰਨਲ ਐਂਟਰੀਆਂ"
+    }
+}

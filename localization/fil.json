@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Account",
+        "accountType": "Uri ng account",
+        "accounting": "Accounting",
+        "accounts": "Mga account",
+        "closed": "Sarado",
+        "fiscalPeriod": "Panahong piskal",
+        "fiscalPeriods": "Mga panahong piskal",
+        "journalEntries": "Mga tala sa journal"
+    }
+}

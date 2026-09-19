@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Рахунок",
+        "accountType": "Тип рахунку",
+        "accounting": "Бухгалтерський облік",
+        "accounts": "Рахунки",
+        "closed": "Закрито",
+        "fiscalPeriod": "Звітний період",
+        "fiscalPeriods": "Звітні періоди",
+        "journalEntries": "Бухгалтерські проведення"
+    }
+}

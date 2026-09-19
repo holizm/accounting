@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "စာရင်း",
+        "accountType": "စာရင်းအမျိုးအစား",
+        "accounting": "စာရင်းကိုင်",
+        "accounts": "စာရင်းများ",
+        "closed": "ပိတ်ပြီး",
+        "fiscalPeriod": "ဘဏ္ဍာရေးကာလ",
+        "fiscalPeriods": "ဘဏ္ဍာရေးကာလများ",
+        "journalEntries": "ဂျာနယ်စာရင်းသွင်းချက်များ"
+    }
+}

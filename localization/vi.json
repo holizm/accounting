@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Tài khoản",
+        "accountType": "Loại tài khoản",
+        "accounting": "Kế toán",
+        "accounts": "Các tài khoản",
+        "closed": "Đã khóa sổ",
+        "fiscalPeriod": "Kỳ tài chính",
+        "fiscalPeriods": "Các kỳ tài chính",
+        "journalEntries": "Bút toán nhật ký"
+    }
+}

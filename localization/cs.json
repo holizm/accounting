@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Účet",
+        "accountType": "Typ účtu",
+        "accounting": "Účetnictví",
+        "accounts": "Účty",
+        "closed": "Uzavřeno",
+        "fiscalPeriod": "Účetní období",
+        "fiscalPeriods": "Účetní období",
+        "journalEntries": "Účetní zápisy"
+    }
+}

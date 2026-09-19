@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "חשבון",
+        "accountType": "סוג חשבון",
+        "accounting": "הנהלת חשבונות",
+        "accounts": "חשבונות",
+        "closed": "סגור",
+        "fiscalPeriod": "תקופה חשבונאית",
+        "fiscalPeriods": "תקופות חשבונאיות",
+        "journalEntries": "פקודות יומן"
+    }
+}

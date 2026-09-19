@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "கணக்கு",
+        "accountType": "கணக்கு வகை",
+        "accounting": "கணக்கியல்",
+        "accounts": "கணக்குகள்",
+        "closed": "மூடப்பட்டது",
+        "fiscalPeriod": "நிதிக் காலம்",
+        "fiscalPeriods": "நிதிக் காலங்கள்",
+        "journalEntries": "குறிப்பேட்டுப் பதிவுகள்"
+    }
+}

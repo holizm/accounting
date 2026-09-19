@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Cont",
+        "accountType": "Tip de cont",
+        "accounting": "Contabilitate",
+        "accounts": "Conturi",
+        "closed": "Închis",
+        "fiscalPeriod": "Perioadă fiscală",
+        "fiscalPeriods": "Perioade fiscale",
+        "journalEntries": "Înregistrări contabile"
+    }
+}

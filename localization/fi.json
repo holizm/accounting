@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Tili",
+        "accountType": "Tilityyppi",
+        "accounting": "Kirjanpito",
+        "accounts": "Tilit",
+        "closed": "Suljettu",
+        "fiscalPeriod": "Tilikausi",
+        "fiscalPeriods": "Tilikaudet",
+        "journalEntries": "Päiväkirjaviennit"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "帳戶",
+        "accountType": "帳戶類型",
+        "accounting": "會計",
+        "accounts": "帳戶",
+        "closed": "已結帳",
+        "fiscalPeriod": "會計期間",
+        "fiscalPeriods": "會計期間",
+        "journalEntries": "日記帳分錄"
+    }
+}

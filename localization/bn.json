@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "হিসাব",
+        "accountType": "হিসাবের ধরন",
+        "accounting": "হিসাবরক্ষণ",
+        "accounts": "হিসাবসমূহ",
+        "closed": "বন্ধ",
+        "fiscalPeriod": "অর্থবছর",
+        "fiscalPeriods": "অর্থবছরসমূহ",
+        "journalEntries": "জাবেদা এন্ট্রি"
+    }
+}

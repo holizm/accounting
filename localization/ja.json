@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "勘定科目",
+        "accountType": "勘定科目タイプ",
+        "accounting": "会計",
+        "accounts": "勘定科目",
+        "closed": "締め済み",
+        "fiscalPeriod": "会計期間",
+        "fiscalPeriods": "会計期間",
+        "journalEntries": "仕訳"
+    }
+}

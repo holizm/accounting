@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Hesap",
+        "accountType": "Hesap türü",
+        "accounting": "Muhasebe",
+        "accounts": "Hesaplar",
+        "closed": "Kapatıldı",
+        "fiscalPeriod": "Mali dönem",
+        "fiscalPeriods": "Mali dönemler",
+        "journalEntries": "Yevmiye kayıtları"
+    }
+}

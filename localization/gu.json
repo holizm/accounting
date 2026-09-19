@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "ખાતું",
+        "accountType": "ખાતાનો પ્રકાર",
+        "accounting": "હિસાબી વ્યવસ્થા",
+        "accounts": "ખાતાં",
+        "closed": "બંધ",
+        "fiscalPeriod": "નાણાકીય અવધિ",
+        "fiscalPeriods": "નાણાકીય અવધિઓ",
+        "journalEntries": "જર્નલ નોંધો"
+    }
+}

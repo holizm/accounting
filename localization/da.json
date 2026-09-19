@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Konto",
+        "accountType": "Kontotype",
+        "accounting": "Regnskab",
+        "accounts": "Konti",
+        "closed": "Lukket",
+        "fiscalPeriod": "Regnskabsperiode",
+        "fiscalPeriods": "Regnskabsperioder",
+        "journalEntries": "Posteringer"
+    }
+}

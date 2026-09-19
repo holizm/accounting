@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Счёт",
+        "accountType": "Тип счёта",
+        "accounting": "Бухгалтерский учёт",
+        "accounts": "Счета",
+        "closed": "Закрыт",
+        "fiscalPeriod": "Отчётный период",
+        "fiscalPeriods": "Отчётные периоды",
+        "journalEntries": "Бухгалтерские проводки"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "ಖಾತೆ",
+        "accountType": "ಖಾತೆಯ ಪ್ರಕಾರ",
+        "accounting": "ಲೆಕ್ಕಪತ್ರ",
+        "accounts": "ಖಾತೆಗಳು",
+        "closed": "ಮುಚ್ಚಲಾಗಿದೆ",
+        "fiscalPeriod": "ಹಣಕಾಸು ಅವಧಿ",
+        "fiscalPeriods": "ಹಣಕಾಸು ಅವಧಿಗಳು",
+        "journalEntries": "ಜರ್ನಲ್ ನಮೂದುಗಳು"
+    }
+}

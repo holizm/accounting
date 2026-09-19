@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Akaun",
+        "accountType": "Jenis akaun",
+        "accounting": "Perakaunan",
+        "accounts": "Akaun",
+        "closed": "Ditutup",
+        "fiscalPeriod": "Tempoh fiskal",
+        "fiscalPeriods": "Tempoh fiskal",
+        "journalEntries": "Entri jurnal"
+    }
+}

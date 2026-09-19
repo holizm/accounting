@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Akaunti",
+        "accountType": "Aina ya akaunti",
+        "accounting": "Uhasibu",
+        "accounts": "Akaunti",
+        "closed": "Imefungwa",
+        "fiscalPeriod": "Kipindi cha fedha",
+        "fiscalPeriods": "Vipindi vya fedha",
+        "journalEntries": "Maingizo ya jarida"
+    }
+}

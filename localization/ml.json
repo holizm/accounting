@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "അക്കൗണ്ട്",
+        "accountType": "അക്കൗണ്ട് തരം",
+        "accounting": "അക്കൗണ്ടിംഗ്",
+        "accounts": "അക്കൗണ്ടുകൾ",
+        "closed": "അടച്ചു",
+        "fiscalPeriod": "സാമ്പത്തിക കാലയളവ്",
+        "fiscalPeriods": "സാമ്പത്തിക കാലയളവുകൾ",
+        "journalEntries": "ജേണൽ എൻട്രികൾ"
+    }
+}

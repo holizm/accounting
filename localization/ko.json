@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "계정",
+        "accountType": "계정 유형",
+        "accounting": "회계",
+        "accounts": "계정",
+        "closed": "마감됨",
+        "fiscalPeriod": "회계 기간",
+        "fiscalPeriods": "회계 기간",
+        "journalEntries": "분개"
+    }
+}

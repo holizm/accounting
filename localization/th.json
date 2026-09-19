@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "บัญชี",
+        "accountType": "ประเภทบัญชี",
+        "accounting": "การบัญชี",
+        "accounts": "บัญชี",
+        "closed": "ปิดแล้ว",
+        "fiscalPeriod": "รอบบัญชี",
+        "fiscalPeriods": "รอบบัญชี",
+        "journalEntries": "รายการสมุดรายวัน"
+    }
+}

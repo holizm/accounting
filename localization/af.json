@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Rekening",
+        "accountType": "Rekeningtipe",
+        "accounting": "Rekeningkunde",
+        "accounts": "Rekeninge",
+        "closed": "Gesluit",
+        "fiscalPeriod": "Finansiële tydperk",
+        "fiscalPeriods": "Finansiële tydperke",
+        "journalEntries": "Joernaalinskrywings"
+    }
+}

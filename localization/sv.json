@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Konto",
+        "accountType": "Kontotyp",
+        "accounting": "Bokföring",
+        "accounts": "Konton",
+        "closed": "Stängd",
+        "fiscalPeriod": "Räkenskapsperiod",
+        "fiscalPeriods": "Räkenskapsperioder",
+        "journalEntries": "Verifikationer"
+    }
+}

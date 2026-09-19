@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Конто",
+        "accountType": "Врста конта",
+        "accounting": "Рачуноводство",
+        "accounts": "Конта",
+        "closed": "Затворено",
+        "fiscalPeriod": "Обрачунски период",
+        "fiscalPeriods": "Обрачунски периоди",
+        "journalEntries": "Књижења у дневнику"
+    }
+}

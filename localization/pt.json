@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Conta",
+        "accountType": "Tipo de conta",
+        "accounting": "Contabilidade",
+        "accounts": "Contas",
+        "closed": "Encerrado",
+        "fiscalPeriod": "Período fiscal",
+        "fiscalPeriods": "Períodos fiscais",
+        "journalEntries": "Lançamentos contábeis"
+    }
+}

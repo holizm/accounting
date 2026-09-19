@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Λογαριασμός",
+        "accountType": "Τύπος λογαριασμού",
+        "accounting": "Λογιστική",
+        "accounts": "Λογαριασμοί",
+        "closed": "Κλειστή",
+        "fiscalPeriod": "Οικονομική περίοδος",
+        "fiscalPeriods": "Οικονομικές περίοδοι",
+        "journalEntries": "Λογιστικές εγγραφές"
+    }
+}

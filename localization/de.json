@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "Konto",
+        "accountType": "Kontotyp",
+        "accounting": "Buchhaltung",
+        "accounts": "Konten",
+        "closed": "Abgeschlossen",
+        "fiscalPeriod": "Geschäftsperiode",
+        "fiscalPeriods": "Geschäftsperioden",
+        "journalEntries": "Buchungssätze"
+    }
+}

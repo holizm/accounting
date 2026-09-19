@@ -1,0 +1,12 @@
+{
+    "common": {
+        "account": "መለያ",
+        "accountType": "የመለያ ዓይነት",
+        "accounting": "ሂሳብ አያያዝ",
+        "accounts": "መለያዎች",
+        "closed": "የተዘጋ",
+        "fiscalPeriod": "የሒሳብ ዘመን",
+        "fiscalPeriods": "የሒሳብ ዘመናት",
+        "journalEntries": "የጆርናል ምዝገባዎች"
+    }
+}
