@@ -7,7 +7,7 @@ export default [
             },
             {
                 path: '/accounting/fiscalPeriod/list',
-                title: 'accountingFiscalPeriods',
+                title: 'coreFiscalPeriods',
             },
             {
                 path: '/accounting/journalEntry/list',

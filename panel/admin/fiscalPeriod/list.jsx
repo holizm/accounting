@@ -6,7 +6,7 @@ import {
 import Form from './form'
 
 const headers = <>
-    <th start>accountingFiscalPeriod</th>
+    <th start>coreFiscalPeriod</th>
     <th>accountingStartDate</th>
     <th>accountingEndDate</th>
 </>

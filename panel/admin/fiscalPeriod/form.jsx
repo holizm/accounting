@@ -18,7 +18,7 @@ const inputs = <>
         required
     />
     <Boolean
-        placeholder='accountingClosed'
+        placeholder='coreClosed'
         property='closed'
     />
 </>
