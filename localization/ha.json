@@ -2,11 +2,17 @@
     "common": {
         "account": "Asusu",
         "accountType": "Nau’in asusu",
+        "accountTypes": "Nau’o’in asusu",
         "accounting": "Lissafi",
         "accounts": "Asusu",
         "closed": "An rufe",
         "fiscalPeriod": "Lokacin kasafin kuɗi",
         "fiscalPeriods": "Lokutan kasafin kuɗi",
-        "journalEntries": "Shigarwar mujallar lissafi"
+        "journalEntries": "Shigarwar mujallar lissafi",
+        "journalEntry": "Shigarwa a mujallar lissafi",
+        "journalEntryStatus": "Matsayin shigarwa a mujallar lissafi",
+        "journalEntryStatuses": "Matsayen shigarwar mujallar lissafi",
+        "journalLine": "Layin mujallar lissafi",
+        "journalLines": "Layukan mujallar lissafi"
     }
 }

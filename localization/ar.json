@@ -2,11 +2,17 @@
     "common": {
         "account": "حساب",
         "accountType": "نوع الحساب",
+        "accountTypes": "أنواع الحسابات",
         "accounting": "المحاسبة",
         "accounts": "الحسابات",
         "closed": "مغلق",
         "fiscalPeriod": "الفترة المالية",
         "fiscalPeriods": "الفترات المالية",
-        "journalEntries": "قيود اليومية"
+        "journalEntries": "قيود اليومية",
+        "journalEntry": "قيد يومية",
+        "journalEntryStatus": "حالة قيد اليومية",
+        "journalEntryStatuses": "حالات قيود اليومية",
+        "journalLine": "سطر قيد اليومية",
+        "journalLines": "سطور قيود اليومية"
     }
 }

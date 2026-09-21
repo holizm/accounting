@@ -2,11 +2,17 @@
     "common": {
         "account": "Cuenta",
         "accountType": "Tipo de cuenta",
+        "accountTypes": "Tipos de cuenta",
         "accounting": "Contabilidad",
         "accounts": "Cuentas",
         "closed": "Cerrado",
         "fiscalPeriod": "Período fiscal",
         "fiscalPeriods": "Períodos fiscales",
-        "journalEntries": "Asientos contables"
+        "journalEntries": "Asientos contables",
+        "journalEntry": "Asiento contable",
+        "journalEntryStatus": "Estado del asiento contable",
+        "journalEntryStatuses": "Estados de los asientos contables",
+        "journalLine": "Línea del asiento contable",
+        "journalLines": "Líneas de los asientos contables"
     }
 }

@@ -2,11 +2,17 @@
     "common": {
         "account": "Konto",
         "accountType": "Vrsta konta",
+        "accountTypes": "Vrste računa",
         "accounting": "Računovodstvo",
         "accounts": "Konta",
         "closed": "Zatvoreno",
         "fiscalPeriod": "Obračunsko razdoblje",
         "fiscalPeriods": "Obračunska razdoblja",
-        "journalEntries": "Knjiženja u dnevniku"
+        "journalEntries": "Knjiženja u dnevniku",
+        "journalEntry": "Knjiženje",
+        "journalEntryStatus": "Status knjiženja",
+        "journalEntryStatuses": "Statusi knjiženja",
+        "journalLine": "Stavka knjiženja",
+        "journalLines": "Stavke knjiženja"
     }
 }

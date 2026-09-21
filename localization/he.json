@@ -2,11 +2,17 @@
     "common": {
         "account": "חשבון",
         "accountType": "סוג חשבון",
+        "accountTypes": "סוגי חשבונות",
         "accounting": "הנהלת חשבונות",
         "accounts": "חשבונות",
         "closed": "סגור",
         "fiscalPeriod": "תקופה חשבונאית",
         "fiscalPeriods": "תקופות חשבונאיות",
-        "journalEntries": "פקודות יומן"
+        "journalEntries": "פקודות יומן",
+        "journalEntry": "פקודת יומן",
+        "journalEntryStatus": "סטטוס פקודת יומן",
+        "journalEntryStatuses": "סטטוסים של פקודות יומן",
+        "journalLine": "שורת פקודת יומן",
+        "journalLines": "שורות פקודות יומן"
     }
 }

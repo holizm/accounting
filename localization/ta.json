@@ -2,11 +2,17 @@
     "common": {
         "account": "கணக்கு",
         "accountType": "கணக்கு வகை",
+        "accountTypes": "கணக்கு வகைகள்",
         "accounting": "கணக்கியல்",
         "accounts": "கணக்குகள்",
         "closed": "மூடப்பட்டது",
         "fiscalPeriod": "நிதிக் காலம்",
         "fiscalPeriods": "நிதிக் காலங்கள்",
-        "journalEntries": "குறிப்பேட்டுப் பதிவுகள்"
+        "journalEntries": "குறிப்பேட்டுப் பதிவுகள்",
+        "journalEntry": "குறிப்பேட்டுப் பதிவு",
+        "journalEntryStatus": "குறிப்பேட்டுப் பதிவின் நிலை",
+        "journalEntryStatuses": "குறிப்பேட்டுப் பதிவுகளின் நிலைகள்",
+        "journalLine": "குறிப்பேட்டுப் பதிவின் வரி",
+        "journalLines": "குறிப்பேட்டுப் பதிவுகளின் வரிகள்"
     }
 }

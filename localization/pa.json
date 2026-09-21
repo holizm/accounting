@@ -2,11 +2,17 @@
     "common": {
         "account": "ਖਾਤਾ",
         "accountType": "ਖਾਤੇ ਦੀ ਕਿਸਮ",
+        "accountTypes": "ਖਾਤੇ ਦੀਆਂ ਕਿਸਮਾਂ",
         "accounting": "ਲੇਖਾਕਾਰੀ",
         "accounts": "ਖਾਤੇ",
         "closed": "ਬੰਦ",
         "fiscalPeriod": "ਵਿੱਤੀ ਮਿਆਦ",
         "fiscalPeriods": "ਵਿੱਤੀ ਮਿਆਦਾਂ",
-        "journalEntries": "ਜਰਨਲ ਐਂਟਰੀਆਂ"
+        "journalEntries": "ਜਰਨਲ ਐਂਟਰੀਆਂ",
+        "journalEntry": "ਜਰਨਲ ਐਂਟਰੀ",
+        "journalEntryStatus": "ਜਰਨਲ ਐਂਟਰੀ ਦੀ ਸਥਿਤੀ",
+        "journalEntryStatuses": "ਜਰਨਲ ਐਂਟਰੀਆਂ ਦੀਆਂ ਸਥਿਤੀਆਂ",
+        "journalLine": "ਜਰਨਲ ਲਾਈਨ",
+        "journalLines": "ਜਰਨਲ ਲਾਈਨਾਂ"
     }
 }

@@ -2,11 +2,17 @@
     "common": {
         "account": "Compte",
         "accountType": "Type de compte",
+        "accountTypes": "Types de compte",
         "accounting": "Comptabilité",
         "accounts": "Comptes",
         "closed": "Clôturé",
         "fiscalPeriod": "Exercice comptable",
         "fiscalPeriods": "Exercices comptables",
-        "journalEntries": "Écritures comptables"
+        "journalEntries": "Écritures comptables",
+        "journalEntry": "Écriture comptable",
+        "journalEntryStatus": "Statut de l’écriture comptable",
+        "journalEntryStatuses": "Statuts des écritures comptables",
+        "journalLine": "Ligne d’écriture comptable",
+        "journalLines": "Lignes d’écriture comptable"
     }
 }

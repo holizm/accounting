@@ -2,11 +2,17 @@
     "common": {
         "account": "Számla",
         "accountType": "Számlatípus",
+        "accountTypes": "Számlatípusok",
         "accounting": "Könyvelés",
         "accounts": "Számlák",
         "closed": "Lezárt",
         "fiscalPeriod": "Pénzügyi időszak",
         "fiscalPeriods": "Pénzügyi időszakok",
-        "journalEntries": "Naplóbejegyzések"
+        "journalEntries": "Naplóbejegyzések",
+        "journalEntry": "Naplóbejegyzés",
+        "journalEntryStatus": "Naplóbejegyzés állapota",
+        "journalEntryStatuses": "Naplóbejegyzések állapotai",
+        "journalLine": "Naplóbejegyzés sora",
+        "journalLines": "Naplóbejegyzések sorai"
     }
 }

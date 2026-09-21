@@ -2,11 +2,17 @@
     "common": {
         "account": "ఖాతా",
         "accountType": "ఖాతా రకం",
+        "accountTypes": "ఖాతా రకాలు",
         "accounting": "అకౌంటింగ్",
         "accounts": "ఖాతాలు",
         "closed": "మూసివేయబడింది",
         "fiscalPeriod": "ఆర్థిక కాలం",
         "fiscalPeriods": "ఆర్థిక కాలాలు",
-        "journalEntries": "జర్నల్ నమోదులు"
+        "journalEntries": "జర్నల్ నమోదులు",
+        "journalEntry": "జర్నల్ నమోదు",
+        "journalEntryStatus": "జర్నల్ నమోదు స్థితి",
+        "journalEntryStatuses": "జర్నల్ నమోదుల స్థితులు",
+        "journalLine": "జర్నల్ పంక్తి",
+        "journalLines": "జర్నల్ పంక్తులు"
     }
 }

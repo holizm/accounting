@@ -2,11 +2,17 @@
     "common": {
         "account": "Konto",
         "accountType": "Kontotyp",
+        "accountTypes": "Kontotyper",
         "accounting": "Bokföring",
         "accounts": "Konton",
         "closed": "Stängd",
         "fiscalPeriod": "Räkenskapsperiod",
         "fiscalPeriods": "Räkenskapsperioder",
-        "journalEntries": "Verifikationer"
+        "journalEntries": "Verifikationer",
+        "journalEntry": "Verifikation",
+        "journalEntryStatus": "Verifikationsstatus",
+        "journalEntryStatuses": "Verifikationsstatusar",
+        "journalLine": "Verifikationsrad",
+        "journalLines": "Verifikationsrader"
     }
 }

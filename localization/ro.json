@@ -2,11 +2,17 @@
     "common": {
         "account": "Cont",
         "accountType": "Tip de cont",
+        "accountTypes": "Tipuri de conturi",
         "accounting": "Contabilitate",
         "accounts": "Conturi",
         "closed": "Închis",
         "fiscalPeriod": "Perioadă fiscală",
         "fiscalPeriods": "Perioade fiscale",
-        "journalEntries": "Înregistrări contabile"
+        "journalEntries": "Înregistrări contabile",
+        "journalEntry": "Înregistrare contabilă",
+        "journalEntryStatus": "Starea înregistrării contabile",
+        "journalEntryStatuses": "Stările înregistrărilor contabile",
+        "journalLine": "Linie de înregistrare contabilă",
+        "journalLines": "Linii de înregistrare contabilă"
     }
 }

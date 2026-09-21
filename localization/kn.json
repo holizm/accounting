@@ -2,11 +2,17 @@
     "common": {
         "account": "ಖಾತೆ",
         "accountType": "ಖಾತೆಯ ಪ್ರಕಾರ",
+        "accountTypes": "ಖಾತೆಯ ವಿಧಗಳು",
         "accounting": "ಲೆಕ್ಕಪತ್ರ",
         "accounts": "ಖಾತೆಗಳು",
         "closed": "ಮುಚ್ಚಲಾಗಿದೆ",
         "fiscalPeriod": "ಹಣಕಾಸು ಅವಧಿ",
         "fiscalPeriods": "ಹಣಕಾಸು ಅವಧಿಗಳು",
-        "journalEntries": "ಜರ್ನಲ್ ನಮೂದುಗಳು"
+        "journalEntries": "ಜರ್ನಲ್ ನಮೂದುಗಳು",
+        "journalEntry": "ಜರ್ನಲ್ ನಮೂದು",
+        "journalEntryStatus": "ಜರ್ನಲ್ ನಮೂದಿನ ಸ್ಥಿತಿ",
+        "journalEntryStatuses": "ಜರ್ನಲ್ ನಮೂದುಗಳ ಸ್ಥಿತಿಗಳು",
+        "journalLine": "ಜರ್ನಲ್ ಸಾಲು",
+        "journalLines": "ಜರ್ನಲ್ ಸಾಲುಗಳು"
     }
 }

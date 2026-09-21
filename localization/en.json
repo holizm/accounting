@@ -2,11 +2,17 @@
     "common": {
         "account": "Account",
         "accountType": "Account type",
+        "accountTypes": "Account types",
         "accounting": "Accounting",
         "accounts": "Accounts",
         "closed": "Closed",
         "fiscalPeriod": "Fiscal period",
         "fiscalPeriods": "Fiscal periods",
-        "journalEntries": "Journal entries"
+        "journalEntries": "Journal entries",
+        "journalEntry": "Journal entry",
+        "journalEntryStatus": "Journal entry status",
+        "journalEntryStatuses": "Journal entry statuses",
+        "journalLine": "Journal line",
+        "journalLines": "Journal lines"
     }
 }

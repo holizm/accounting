@@ -2,11 +2,17 @@
     "common": {
         "account": "Rekening",
         "accountType": "Rekeningtype",
+        "accountTypes": "Rekeningtypen",
         "accounting": "Boekhouding",
         "accounts": "Rekeningen",
         "closed": "Afgesloten",
         "fiscalPeriod": "Boekhoudperiode",
         "fiscalPeriods": "Boekhoudperioden",
-        "journalEntries": "Journaalposten"
+        "journalEntries": "Journaalposten",
+        "journalEntry": "Journaalpost",
+        "journalEntryStatus": "Journaalpoststatus",
+        "journalEntryStatuses": "Journaalpoststatussen",
+        "journalLine": "Journaalregel",
+        "journalLines": "Journaalregels"
     }
 }

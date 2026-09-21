@@ -2,11 +2,17 @@
     "common": {
         "account": "അക്കൗണ്ട്",
         "accountType": "അക്കൗണ്ട് തരം",
+        "accountTypes": "അക്കൗണ്ട് തരങ്ങൾ",
         "accounting": "അക്കൗണ്ടിംഗ്",
         "accounts": "അക്കൗണ്ടുകൾ",
         "closed": "അടച്ചു",
         "fiscalPeriod": "സാമ്പത്തിക കാലയളവ്",
         "fiscalPeriods": "സാമ്പത്തിക കാലയളവുകൾ",
-        "journalEntries": "ജേണൽ എൻട്രികൾ"
+        "journalEntries": "ജേണൽ എൻട്രികൾ",
+        "journalEntry": "ജേണൽ എൻട്രി",
+        "journalEntryStatus": "ജേണൽ എൻട്രിയുടെ നില",
+        "journalEntryStatuses": "ജേണൽ എൻട്രികളുടെ നിലകൾ",
+        "journalLine": "ജേണൽ വരി",
+        "journalLines": "ജേണൽ വരികൾ"
     }
 }

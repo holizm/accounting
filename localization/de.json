@@ -2,11 +2,17 @@
     "common": {
         "account": "Konto",
         "accountType": "Kontotyp",
+        "accountTypes": "Kontotypen",
         "accounting": "Buchhaltung",
         "accounts": "Konten",
         "closed": "Abgeschlossen",
         "fiscalPeriod": "Geschäftsperiode",
         "fiscalPeriods": "Geschäftsperioden",
-        "journalEntries": "Buchungssätze"
+        "journalEntries": "Buchungssätze",
+        "journalEntry": "Buchungssatz",
+        "journalEntryStatus": "Buchungsstatus",
+        "journalEntryStatuses": "Buchungsstatus",
+        "journalLine": "Buchungszeile",
+        "journalLines": "Buchungszeilen"
     }
 }

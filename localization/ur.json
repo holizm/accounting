@@ -2,11 +2,17 @@
     "common": {
         "account": "کھاتہ",
         "accountType": "کھاتے کی قسم",
+        "accountTypes": "اکاؤنٹ کی اقسام",
         "accounting": "حساب داری",
         "accounts": "کھاتے",
         "closed": "بند",
         "fiscalPeriod": "مالی مدت",
         "fiscalPeriods": "مالی مدتیں",
-        "journalEntries": "جرنل اندراجات"
+        "journalEntries": "جرنل اندراجات",
+        "journalEntry": "جرنل اندراج",
+        "journalEntryStatus": "جرنل اندراج کی حیثیت",
+        "journalEntryStatuses": "جرنل اندراجات کی حیثیتیں",
+        "journalLine": "جرنل کی سطر",
+        "journalLines": "جرنل کی سطریں"
     }
 }

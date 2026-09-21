@@ -2,11 +2,17 @@
     "common": {
         "account": "บัญชี",
         "accountType": "ประเภทบัญชี",
+        "accountTypes": "ประเภทบัญชี",
         "accounting": "การบัญชี",
         "accounts": "บัญชี",
         "closed": "ปิดแล้ว",
         "fiscalPeriod": "รอบบัญชี",
         "fiscalPeriods": "รอบบัญชี",
-        "journalEntries": "รายการสมุดรายวัน"
+        "journalEntries": "รายการสมุดรายวัน",
+        "journalEntry": "รายการสมุดรายวัน",
+        "journalEntryStatus": "สถานะรายการสมุดรายวัน",
+        "journalEntryStatuses": "สถานะรายการสมุดรายวัน",
+        "journalLine": "บรรทัดรายการสมุดรายวัน",
+        "journalLines": "บรรทัดรายการสมุดรายวัน"
     }
 }

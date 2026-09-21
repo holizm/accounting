@@ -2,11 +2,17 @@
     "common": {
         "account": "खाते",
         "accountType": "खात्याचा प्रकार",
+        "accountTypes": "खात्याचे प्रकार",
         "accounting": "लेखांकन",
         "accounts": "खाती",
         "closed": "बंद",
         "fiscalPeriod": "आर्थिक कालावधी",
         "fiscalPeriods": "आर्थिक कालावधी",
-        "journalEntries": "जर्नल नोंदी"
+        "journalEntries": "जर्नल नोंदी",
+        "journalEntry": "जर्नल नोंद",
+        "journalEntryStatus": "जर्नल नोंदीची स्थिती",
+        "journalEntryStatuses": "जर्नल नोंदींच्या स्थिती",
+        "journalLine": "जर्नल ओळ",
+        "journalLines": "जर्नल ओळी"
     }
 }

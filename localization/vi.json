@@ -2,11 +2,17 @@
     "common": {
         "account": "Tài khoản",
         "accountType": "Loại tài khoản",
+        "accountTypes": "Loại tài khoản",
         "accounting": "Kế toán",
         "accounts": "Các tài khoản",
         "closed": "Đã khóa sổ",
         "fiscalPeriod": "Kỳ tài chính",
         "fiscalPeriods": "Các kỳ tài chính",
-        "journalEntries": "Bút toán nhật ký"
+        "journalEntries": "Bút toán nhật ký",
+        "journalEntry": "Bút toán nhật ký",
+        "journalEntryStatus": "Trạng thái bút toán nhật ký",
+        "journalEntryStatuses": "Các trạng thái bút toán nhật ký",
+        "journalLine": "Dòng bút toán nhật ký",
+        "journalLines": "Các dòng bút toán nhật ký"
     }
 }

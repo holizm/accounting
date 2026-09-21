@@ -2,11 +2,17 @@
     "common": {
         "account": "Conta",
         "accountType": "Tipo de conta",
+        "accountTypes": "Tipos de conta",
         "accounting": "Contabilidade",
         "accounts": "Contas",
         "closed": "Encerrado",
         "fiscalPeriod": "Período fiscal",
         "fiscalPeriods": "Períodos fiscais",
-        "journalEntries": "Lançamentos contábeis"
+        "journalEntries": "Lançamentos contábeis",
+        "journalEntry": "Lançamento contabilístico",
+        "journalEntryStatus": "Estado do lançamento contabilístico",
+        "journalEntryStatuses": "Estados dos lançamentos contabilísticos",
+        "journalLine": "Linha do lançamento contabilístico",
+        "journalLines": "Linhas dos lançamentos contabilísticos"
     }
 }

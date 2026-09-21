@@ -2,11 +2,17 @@
     "common": {
         "account": "হিসাব",
         "accountType": "হিসাবের ধরন",
+        "accountTypes": "হিসাবের ধরন",
         "accounting": "হিসাবরক্ষণ",
         "accounts": "হিসাবসমূহ",
         "closed": "বন্ধ",
         "fiscalPeriod": "অর্থবছর",
         "fiscalPeriods": "অর্থবছরসমূহ",
-        "journalEntries": "জাবেদা এন্ট্রি"
+        "journalEntries": "জাবেদা এন্ট্রি",
+        "journalEntry": "জাবেদা এন্ট্রি",
+        "journalEntryStatus": "জাবেদা এন্ট্রির অবস্থা",
+        "journalEntryStatuses": "জাবেদা এন্ট্রির অবস্থাসমূহ",
+        "journalLine": "জাবেদা লাইন",
+        "journalLines": "জাবেদা লাইনসমূহ"
     }
 }

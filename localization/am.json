@@ -2,11 +2,17 @@
     "common": {
         "account": "መለያ",
         "accountType": "የመለያ ዓይነት",
+        "accountTypes": "የሂሳብ አይነቶች",
         "accounting": "ሂሳብ አያያዝ",
         "accounts": "መለያዎች",
         "closed": "የተዘጋ",
         "fiscalPeriod": "የሒሳብ ዘመን",
         "fiscalPeriods": "የሒሳብ ዘመናት",
-        "journalEntries": "የጆርናል ምዝገባዎች"
+        "journalEntries": "የጆርናል ምዝገባዎች",
+        "journalEntry": "የሂሳብ መዝገብ ግቤት",
+        "journalEntryStatus": "የሂሳብ መዝገብ ግቤት ሁኔታ",
+        "journalEntryStatuses": "የሂሳብ መዝገብ ግቤቶች ሁኔታዎች",
+        "journalLine": "የሂሳብ መዝገብ መስመር",
+        "journalLines": "የሂሳብ መዝገብ መስመሮች"
     }
 }

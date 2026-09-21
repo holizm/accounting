@@ -2,11 +2,17 @@
     "common": {
         "account": "Account",
         "accountType": "Uri ng account",
+        "accountTypes": "Mga uri ng account",
         "accounting": "Accounting",
         "accounts": "Mga account",
         "closed": "Sarado",
         "fiscalPeriod": "Panahong piskal",
         "fiscalPeriods": "Mga panahong piskal",
-        "journalEntries": "Mga tala sa journal"
+        "journalEntries": "Mga tala sa journal",
+        "journalEntry": "Tala sa journal",
+        "journalEntryStatus": "Katayuan ng tala sa journal",
+        "journalEntryStatuses": "Mga katayuan ng mga tala sa journal",
+        "journalLine": "Linya ng journal",
+        "journalLines": "Mga linya ng journal"
     }
 }

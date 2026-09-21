@@ -2,11 +2,17 @@
     "common": {
         "account": "Сметка",
         "accountType": "Тип сметка",
+        "accountTypes": "Видове сметки",
         "accounting": "Счетоводство",
         "accounts": "Сметки",
         "closed": "Приключен",
         "fiscalPeriod": "Финансов период",
         "fiscalPeriods": "Финансови периоди",
-        "journalEntries": "Счетоводни записи"
+        "journalEntries": "Счетоводни записи",
+        "journalEntry": "Счетоводен запис",
+        "journalEntryStatus": "Статус на счетоводния запис",
+        "journalEntryStatuses": "Статуси на счетоводните записи",
+        "journalLine": "Ред на счетоводния запис",
+        "journalLines": "Редове на счетоводните записи"
     }
 }

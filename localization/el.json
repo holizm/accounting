@@ -2,11 +2,17 @@
     "common": {
         "account": "Λογαριασμός",
         "accountType": "Τύπος λογαριασμού",
+        "accountTypes": "Τύποι λογαριασμών",
         "accounting": "Λογιστική",
         "accounts": "Λογαριασμοί",
         "closed": "Κλειστή",
         "fiscalPeriod": "Οικονομική περίοδος",
         "fiscalPeriods": "Οικονομικές περίοδοι",
-        "journalEntries": "Λογιστικές εγγραφές"
+        "journalEntries": "Λογιστικές εγγραφές",
+        "journalEntry": "Λογιστική εγγραφή",
+        "journalEntryStatus": "Κατάσταση λογιστικής εγγραφής",
+        "journalEntryStatuses": "Καταστάσεις λογιστικών εγγραφών",
+        "journalLine": "Γραμμή λογιστικής εγγραφής",
+        "journalLines": "Γραμμές λογιστικών εγγραφών"
     }
 }

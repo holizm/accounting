@@ -2,11 +2,17 @@
     "common": {
         "account": "Akaunti",
         "accountType": "Aina ya akaunti",
+        "accountTypes": "Aina za akaunti",
         "accounting": "Uhasibu",
         "accounts": "Akaunti",
         "closed": "Imefungwa",
         "fiscalPeriod": "Kipindi cha fedha",
         "fiscalPeriods": "Vipindi vya fedha",
-        "journalEntries": "Maingizo ya jarida"
+        "journalEntries": "Maingizo ya jarida",
+        "journalEntry": "Ingizo la jarida la hesabu",
+        "journalEntryStatus": "Hali ya ingizo la jarida la hesabu",
+        "journalEntryStatuses": "Hali za maingizo ya jarida la hesabu",
+        "journalLine": "Mstari wa jarida la hesabu",
+        "journalLines": "Mistari ya jarida la hesabu"
     }
 }

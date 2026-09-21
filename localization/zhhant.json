@@ -2,11 +2,17 @@
     "common": {
         "account": "帳戶",
         "accountType": "帳戶類型",
+        "accountTypes": "帳戶類型",
         "accounting": "會計",
         "accounts": "帳戶",
         "closed": "已結帳",
         "fiscalPeriod": "會計期間",
         "fiscalPeriods": "會計期間",
-        "journalEntries": "日記帳分錄"
+        "journalEntries": "日記帳分錄",
+        "journalEntry": "日記帳分錄",
+        "journalEntryStatus": "日記帳分錄狀態",
+        "journalEntryStatuses": "日記帳分錄狀態",
+        "journalLine": "日記帳分錄行",
+        "journalLines": "日記帳分錄行"
     }
 }

@@ -2,11 +2,17 @@
     "common": {
         "account": "Konto",
         "accountType": "Typ konta",
+        "accountTypes": "Typy kont",
         "accounting": "Księgowość",
         "accounts": "Konta",
         "closed": "Zamknięty",
         "fiscalPeriod": "Okres obrachunkowy",
         "fiscalPeriods": "Okresy obrachunkowe",
-        "journalEntries": "Zapisy księgowe"
+        "journalEntries": "Zapisy księgowe",
+        "journalEntry": "Zapis księgowy",
+        "journalEntryStatus": "Status zapisu księgowego",
+        "journalEntryStatuses": "Statusy zapisów księgowych",
+        "journalLine": "Pozycja zapisu księgowego",
+        "journalLines": "Pozycje zapisów księgowych"
     }
 }

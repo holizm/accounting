@@ -2,11 +2,17 @@
     "common": {
         "account": "Àkọọ́lẹ̀",
         "accountType": "Irú àkọọ́lẹ̀",
+        "accountTypes": "Àwọn irú àkọọ́lẹ̀",
         "accounting": "Ìṣirò",
         "accounts": "Àwọn àkọọ́lẹ̀",
         "closed": "Ti pa",
         "fiscalPeriod": "Àkókò ìṣúná",
         "fiscalPeriods": "Àwọn àkókò ìṣúná",
-        "journalEntries": "Àwọn àkọsílẹ̀ ìwé ìṣirò"
+        "journalEntries": "Àwọn àkọsílẹ̀ ìwé ìṣirò",
+        "journalEntry": "Àkọsílẹ̀ inú ìwé ìṣirò",
+        "journalEntryStatus": "Ipò àkọsílẹ̀ inú ìwé ìṣirò",
+        "journalEntryStatuses": "Àwọn ipò àkọsílẹ̀ inú ìwé ìṣirò",
+        "journalLine": "Ìlà inú ìwé ìṣirò",
+        "journalLines": "Àwọn ìlà inú ìwé ìṣirò"
     }
 }

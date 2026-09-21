@@ -2,11 +2,17 @@
     "common": {
         "account": "ખાતું",
         "accountType": "ખાતાનો પ્રકાર",
+        "accountTypes": "ખાતાના પ્રકારો",
         "accounting": "હિસાબી વ્યવસ્થા",
         "accounts": "ખાતાં",
         "closed": "બંધ",
         "fiscalPeriod": "નાણાકીય અવધિ",
         "fiscalPeriods": "નાણાકીય અવધિઓ",
-        "journalEntries": "જર્નલ નોંધો"
+        "journalEntries": "જર્નલ નોંધો",
+        "journalEntry": "જર્નલ નોંધ",
+        "journalEntryStatus": "જર્નલ નોંધની સ્થિતિ",
+        "journalEntryStatuses": "જર્નલ નોંધોની સ્થિતિઓ",
+        "journalLine": "જર્નલ પંક્તિ",
+        "journalLines": "જર્નલ પંક્તિઓ"
     }
 }

@@ -2,11 +2,17 @@
     "common": {
         "account": "Hesap",
         "accountType": "Hesap türü",
+        "accountTypes": "Hesap türleri",
         "accounting": "Muhasebe",
         "accounts": "Hesaplar",
         "closed": "Kapatıldı",
         "fiscalPeriod": "Mali dönem",
         "fiscalPeriods": "Mali dönemler",
-        "journalEntries": "Yevmiye kayıtları"
+        "journalEntries": "Yevmiye kayıtları",
+        "journalEntry": "Yevmiye kaydı",
+        "journalEntryStatus": "Yevmiye kaydı durumu",
+        "journalEntryStatuses": "Yevmiye kaydı durumları",
+        "journalLine": "Yevmiye satırı",
+        "journalLines": "Yevmiye satırları"
     }
 }

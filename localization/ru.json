@@ -2,11 +2,17 @@
     "common": {
         "account": "Счёт",
         "accountType": "Тип счёта",
+        "accountTypes": "Типы счетов",
         "accounting": "Бухгалтерский учёт",
         "accounts": "Счета",
         "closed": "Закрыт",
         "fiscalPeriod": "Отчётный период",
         "fiscalPeriods": "Отчётные периоды",
-        "journalEntries": "Бухгалтерские проводки"
+        "journalEntries": "Бухгалтерские проводки",
+        "journalEntry": "Бухгалтерская проводка",
+        "journalEntryStatus": "Статус бухгалтерской проводки",
+        "journalEntryStatuses": "Статусы бухгалтерских проводок",
+        "journalLine": "Строка бухгалтерской проводки",
+        "journalLines": "Строки бухгалтерских проводок"
     }
 }

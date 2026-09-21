@@ -2,11 +2,17 @@
     "common": {
         "account": "Akaun",
         "accountType": "Jenis akaun",
+        "accountTypes": "Jenis akaun",
         "accounting": "Perakaunan",
         "accounts": "Akaun",
         "closed": "Ditutup",
         "fiscalPeriod": "Tempoh fiskal",
         "fiscalPeriods": "Tempoh fiskal",
-        "journalEntries": "Entri jurnal"
+        "journalEntries": "Entri jurnal",
+        "journalEntry": "Entri jurnal",
+        "journalEntryStatus": "Status entri jurnal",
+        "journalEntryStatuses": "Status entri jurnal",
+        "journalLine": "Baris jurnal",
+        "journalLines": "Baris jurnal"
     }
 }

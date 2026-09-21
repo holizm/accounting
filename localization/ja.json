@@ -2,11 +2,17 @@
     "common": {
         "account": "勘定科目",
         "accountType": "勘定科目タイプ",
+        "accountTypes": "勘定科目の種類",
         "accounting": "会計",
         "accounts": "勘定科目",
         "closed": "締め済み",
         "fiscalPeriod": "会計期間",
         "fiscalPeriods": "会計期間",
-        "journalEntries": "仕訳"
+        "journalEntries": "仕訳",
+        "journalEntry": "仕訳",
+        "journalEntryStatus": "仕訳ステータス",
+        "journalEntryStatuses": "仕訳ステータス",
+        "journalLine": "仕訳明細",
+        "journalLines": "仕訳明細"
     }
 }

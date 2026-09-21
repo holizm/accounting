@@ -2,11 +2,17 @@
     "common": {
         "account": "حساب",
         "accountType": "نوع حساب",
+        "accountTypes": "انواع حساب",
         "accounting": "حسابداری",
         "accounts": "حساب‌ها",
         "closed": "بسته‌شده",
         "fiscalPeriod": "دوره مالی",
         "fiscalPeriods": "دوره‌های مالی",
-        "journalEntries": "اسناد حسابداری"
+        "journalEntries": "اسناد حسابداری",
+        "journalEntry": "سند حسابداری",
+        "journalEntryStatus": "وضعیت سند حسابداری",
+        "journalEntryStatuses": "وضعیت‌های سند حسابداری",
+        "journalLine": "ردیف سند حسابداری",
+        "journalLines": "ردیف‌های سند حسابداری"
     }
 }

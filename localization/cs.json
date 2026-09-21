@@ -2,11 +2,17 @@
     "common": {
         "account": "Účet",
         "accountType": "Typ účtu",
+        "accountTypes": "Typy účtů",
         "accounting": "Účetnictví",
         "accounts": "Účty",
         "closed": "Uzavřeno",
         "fiscalPeriod": "Účetní období",
         "fiscalPeriods": "Účetní období",
-        "journalEntries": "Účetní zápisy"
+        "journalEntries": "Účetní zápisy",
+        "journalEntry": "Účetní zápis",
+        "journalEntryStatus": "Stav účetního zápisu",
+        "journalEntryStatuses": "Stavy účetních zápisů",
+        "journalLine": "Řádek účetního zápisu",
+        "journalLines": "Řádky účetních zápisů"
     }
 }

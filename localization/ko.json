@@ -2,11 +2,17 @@
     "common": {
         "account": "계정",
         "accountType": "계정 유형",
+        "accountTypes": "계정 유형",
         "accounting": "회계",
         "accounts": "계정",
         "closed": "마감됨",
         "fiscalPeriod": "회계 기간",
         "fiscalPeriods": "회계 기간",
-        "journalEntries": "분개"
+        "journalEntries": "분개",
+        "journalEntry": "분개",
+        "journalEntryStatus": "분개 상태",
+        "journalEntryStatuses": "분개 상태",
+        "journalLine": "분개 항목",
+        "journalLines": "분개 항목"
     }
 }

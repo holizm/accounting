@@ -2,11 +2,17 @@
     "common": {
         "account": "Tili",
         "accountType": "Tilityyppi",
+        "accountTypes": "Tilityypit",
         "accounting": "Kirjanpito",
         "accounts": "Tilit",
         "closed": "Suljettu",
         "fiscalPeriod": "Tilikausi",
         "fiscalPeriods": "Tilikaudet",
-        "journalEntries": "Päiväkirjaviennit"
+        "journalEntries": "Päiväkirjaviennit",
+        "journalEntry": "Päiväkirjavienti",
+        "journalEntryStatus": "Päiväkirjaviennin tila",
+        "journalEntryStatuses": "Päiväkirjavientien tilat",
+        "journalLine": "Päiväkirjaviennin rivi",
+        "journalLines": "Päiväkirjavientien rivit"
     }
 }

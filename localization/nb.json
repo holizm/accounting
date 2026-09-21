@@ -2,11 +2,17 @@
     "common": {
         "account": "Konto",
         "accountType": "Kontotype",
+        "accountTypes": "Kontotyper",
         "accounting": "Regnskap",
         "accounts": "Kontoer",
         "closed": "Avsluttet",
         "fiscalPeriod": "Regnskapsperiode",
         "fiscalPeriods": "Regnskapsperioder",
-        "journalEntries": "Journalposteringer"
+        "journalEntries": "Journalposteringer",
+        "journalEntry": "Journalpostering",
+        "journalEntryStatus": "Journalposteringsstatus",
+        "journalEntryStatuses": "Journalposteringsstatuser",
+        "journalLine": "Journalposteringslinje",
+        "journalLines": "Journalposteringslinjer"
     }
 }

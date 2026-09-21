@@ -2,11 +2,17 @@
     "common": {
         "account": "Рахунок",
         "accountType": "Тип рахунку",
+        "accountTypes": "Типи рахунків",
         "accounting": "Бухгалтерський облік",
         "accounts": "Рахунки",
         "closed": "Закрито",
         "fiscalPeriod": "Звітний період",
         "fiscalPeriods": "Звітні періоди",
-        "journalEntries": "Бухгалтерські проведення"
+        "journalEntries": "Бухгалтерські проведення",
+        "journalEntry": "Бухгалтерське проведення",
+        "journalEntryStatus": "Статус бухгалтерського проведення",
+        "journalEntryStatuses": "Статуси бухгалтерських проведень",
+        "journalLine": "Рядок бухгалтерського проведення",
+        "journalLines": "Рядки бухгалтерських проведень"
     }
 }

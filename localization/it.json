@@ -2,11 +2,17 @@
     "common": {
         "account": "Conto",
         "accountType": "Tipo di conto",
+        "accountTypes": "Tipi di conto",
         "accounting": "Contabilità",
         "accounts": "Conti",
         "closed": "Chiuso",
         "fiscalPeriod": "Periodo fiscale",
         "fiscalPeriods": "Periodi fiscali",
-        "journalEntries": "Registrazioni contabili"
+        "journalEntries": "Registrazioni contabili",
+        "journalEntry": "Registrazione contabile",
+        "journalEntryStatus": "Stato della registrazione contabile",
+        "journalEntryStatuses": "Stati delle registrazioni contabili",
+        "journalLine": "Riga contabile",
+        "journalLines": "Righe contabili"
     }
 }
