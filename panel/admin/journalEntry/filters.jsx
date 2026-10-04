@@ -1,6 +1,6 @@
 import { Text } from 'list'
 
 export default <Text
-    placeholder='accountingNumber'
+    placeholder='number'
     property='number'
 />

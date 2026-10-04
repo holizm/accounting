@@ -28,6 +28,8 @@ journalEntry
     journalEntryStatus
     description optional
     unique number
+    uses
+        stateMachines
 journalLine
     journalEntry
     account

@@ -8,12 +8,12 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='accountingNumber'
+        placeholder='number'
         property='number'
         required
     />
     <DateTime
-        placeholder='accountingDate'
+        placeholder='date'
         property='date'
         required
     />
@@ -23,12 +23,12 @@ const inputs = <>
             'posted',
             'reversed',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='journalEntryStatus'
         required
     />
     <LongText
-        placeholder='accountingDescription'
+        placeholder='description'
         property='description'
     />
 </>

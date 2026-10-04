@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/accounting/account/list',
-                title: 'accountingAccounts',
+                title: 'accounts',
             },
             {
                 path: '/accounting/fiscalPeriod/list',
-                title: 'coreFiscalPeriods',
+                title: 'fiscalPeriods',
             },
             {
                 path: '/accounting/journalEntry/list',
-                title: 'accountingJournalEntries',
+                title: 'journalEntries',
             },
         ],
         icon: 'accountBalance',
         path: '/accounting',
-        title: 'accountingAccounting',
+        title: 'accounting',
     },
 ]

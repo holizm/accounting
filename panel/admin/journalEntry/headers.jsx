@@ -1,5 +1,5 @@
 export default <>
-    <th start>accountingNumber</th>
-    <th>accountingDate</th>
-    <th>stateMachinesState</th>
+    <th start>number</th>
+    <th>date</th>
+    <th>state</th>
 </>

@@ -1,5 +1,5 @@
 export default <>
-    <th start>coreFiscalPeriod</th>
-    <th>accountingStartDate</th>
-    <th>accountingEndDate</th>
+    <th start>fiscalPeriod</th>
+    <th>startDate</th>
+    <th>endDate</th>
 </>

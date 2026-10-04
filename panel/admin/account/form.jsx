@@ -9,7 +9,7 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='accountingCode'
+        placeholder='code'
         property='code'
         required
     />
@@ -21,12 +21,12 @@ const inputs = <>
             'revenue',
             'expense',
         ]}
-        placeholder='accountingAccountType'
+        placeholder='accountType'
         property='accountType'
         required
     />
     <Boolean
-        placeholder='accountingActive'
+        placeholder='active'
         property='active'
     />
 </>

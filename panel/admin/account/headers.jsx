@@ -1,5 +1,5 @@
 export default <>
-    <th start>accountingAccount</th>
-    <th>accountingCode</th>
-    <th>accountingAccountType</th>
+    <th start>account</th>
+    <th>code</th>
+    <th>accountType</th>
 </>

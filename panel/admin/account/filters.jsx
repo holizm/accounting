@@ -6,7 +6,7 @@ import {
 export default <>
     <Title />
     <Text
-        placeholder='accountingCode'
+        placeholder='code'
         property='code'
     />
 </>

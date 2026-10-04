@@ -8,17 +8,17 @@ import {
 const inputs = <>
     <Title />
     <DateTime
-        placeholder='accountingStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />
     <DateTime
-        placeholder='accountingEndDate'
+        placeholder='endDate'
         property='endDate'
         required
     />
     <Boolean
-        placeholder='coreClosed'
+        placeholder='closed'
         property='closed'
     />
 </>
