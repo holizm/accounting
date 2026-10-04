@@ -8,29 +8,24 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <DateTime
-        placeholder='date'
-        property='date'
+        date
         required
     />
     <Select
+        journalEntryStatus
         options={[
             'draft',
             'posted',
             'reversed',
         ]}
         placeholder='state'
-        property='journalEntryStatus'
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

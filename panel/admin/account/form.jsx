@@ -9,11 +9,11 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
     <Select
+        accountType
         options={[
             'asset',
             'liability',
@@ -21,14 +21,9 @@ const inputs = <>
             'revenue',
             'expense',
         ]}
-        placeholder='accountType'
-        property='accountType'
         required
     />
-    <Boolean
-        placeholder='active'
-        property='active'
-    />
+    <Boolean active />
 </>
 
 export default <DialogForm inputs={inputs} />

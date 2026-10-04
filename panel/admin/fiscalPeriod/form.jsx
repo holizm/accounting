@@ -8,19 +8,14 @@ import {
 const inputs = <>
     <Title />
     <DateTime
-        placeholder='startDate'
-        property='startDate'
         required
+        startDate
     />
     <DateTime
-        placeholder='endDate'
-        property='endDate'
+        endDate
         required
     />
-    <Boolean
-        placeholder='closed'
-        property='closed'
-    />
+    <Boolean closed />
 </>
 
 export default <DialogForm inputs={inputs} />
