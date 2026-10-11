@@ -1,10 +1,10 @@
 {
     "common": {
-        "account": "Számla",
+        "account": "Főkönyvi számla",
         "accountType": "Számlatípus",
         "accountTypes": "Számlatípusok",
         "accounting": "Könyvelés",
-        "accounts": "Számlák",
+        "accounts": "Főkönyvi számlák",
         "journalEntries": "Naplóbejegyzések",
         "journalEntry": "Naplóbejegyzés",
         "journalEntryStatus": "Naplóbejegyzés állapota",

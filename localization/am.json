@@ -1,10 +1,10 @@
 {
     "common": {
-        "account": "መለያ",
+        "account": "የሂሳብ መለያ",
         "accountType": "የመለያ ዓይነት",
         "accountTypes": "የሂሳብ አይነቶች",
         "accounting": "ሂሳብ አያያዝ",
-        "accounts": "መለያዎች",
+        "accounts": "የሂሳብ መለያዎች",
         "journalEntries": "የጆርናል ምዝገባዎች",
         "journalEntry": "የሂሳብ መዝገብ ግቤት",
         "journalEntryStatus": "የሂሳብ መዝገብ ግቤት ሁኔታ",
