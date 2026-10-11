@@ -14,13 +14,15 @@ const inputs = <>
     />
     <Select
         accountType
-        options={[
-            'asset',
-            'liability',
-            'equity',
-            'revenue',
-            'expense',
-        ]}
+        options={
+            [
+                'asset',
+                'liability',
+                'equity',
+                'revenue',
+                'expense',
+            ]
+        }
         required
     />
     <Boolean active />

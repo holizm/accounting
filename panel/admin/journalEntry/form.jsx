@@ -17,11 +17,13 @@ const inputs = <>
     />
     <Select
         journalEntryStatus
-        options={[
-            'draft',
-            'posted',
-            'reversed',
-        ]}
+        options={
+            [
+                'draft',
+                'posted',
+                'reversed',
+            ]
+        }
         placeholder='state'
         required
     />
